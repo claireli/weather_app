@@ -4,6 +4,7 @@
   "manifest_version": 2,
   "description": "I am a doge extension.",
   "browser_action": {
-    "default_icon": "dog.png"
-  }
+    "default_icon": "dog.png",
+	"popup": "popup.html"
+  }	
 }
